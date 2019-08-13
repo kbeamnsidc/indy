@@ -1,0 +1,10 @@
+{
+  "configurations": [
+    {
+      "name": "Indy",
+      "type": "node",
+      "command": "node",
+      "inspect-brk": true
+    }
+  ]
+}
