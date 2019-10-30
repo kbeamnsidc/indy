@@ -3,7 +3,7 @@
     {
       "name": "Indy",
       "type": "node",
-      "command": "node",
+      "command": "node src/index.js",
       "inspect-brk": true
     }
   ]
